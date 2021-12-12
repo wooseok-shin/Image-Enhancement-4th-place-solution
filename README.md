@@ -1,9 +1,9 @@
-# Image-Enhancement-4th-place-solution (DACON, LG AI Research)
-This repository is the 4th place solution for [Camera Image Quality Improvement AI Contest](https://dacon.io/competitions/official/235746/overview/description) (카메라 이미지 품질 향상 AI 경진대회).
+# Image-Enhancement-4th-place-solution (LG AI Research)
+This repository is the 4th place solution for [DACON Camera Image Quality Improvement AI Contest](https://dacon.io/competitions/official/235746/overview/description) (카메라 이미지 품질 향상 AI 경진대회).
 
 ## Overview
 - 전반적인 학습 및 추론 프로세스는 다음 그림과 같습니다.
-<img src="overview.png" width="400px" height="400px" title="Process overview"/><br>
+<img src="overview.png" width="800px" height="400px" title="Process overview"/><br>
 
 ## Requirements
 
