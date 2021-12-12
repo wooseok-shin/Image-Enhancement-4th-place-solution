@@ -3,7 +3,7 @@ This repository is the 4th place solution for [DACON Camera Image Quality Improv
 
 ## Overview
 - 전반적인 학습 및 추론 프로세스는 다음 그림과 같습니다.
-<img src="overview.jpg" width="800px" height="600px" title="Process overview"/><br>
+<img src="overview.JPG" width="800px" height="500px" title="Process overview"/><br>
 
 ## Requirements
 
